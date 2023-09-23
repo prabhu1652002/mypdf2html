@@ -1,0 +1,11 @@
+[project]
+name = "pdf2htmlex"
+version = "0.1.0"
+description = "pdf to html converter
+
+[tool.poetry.dependencies]
+python = "^3.0"
+requests = "^2.25"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"clear
