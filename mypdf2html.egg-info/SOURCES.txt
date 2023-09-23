@@ -1,0 +1,10 @@
+AUTHORS
+LICENSE
+LICENSE_GPLv3
+README.md
+setup.py
+mypdf2html.egg-info/PKG-INFO
+mypdf2html.egg-info/SOURCES.txt
+mypdf2html.egg-info/dependency_links.txt
+mypdf2html.egg-info/requires.txt
+mypdf2html.egg-info/top_level.txt
