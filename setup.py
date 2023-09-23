@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='mypdf2html',
+    name='pdf2htmlEX',
     version='0.1.0',    
     description='pdf2html',
     url='https://github.com/prabhu1652002/mypdf2html',
-    author='Basav prabhu',
+    author='Basava prabhu',
     author_email='basavaprabhu.g@cred.club',
     license='BSD 2-clause',
-    packages=['mypdf2html'],
+    packages=['pdf2htmlEX'],
     install_requires=['mpi4py>=2.0',
                       'numpy',                     
                       ],
